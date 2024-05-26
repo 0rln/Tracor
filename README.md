@@ -26,6 +26,11 @@ Then, you can run it with:
 ```sh
 tracor path/to/your_script.py [options]
 ```
+OR
+Run
+```sh
+python3 main.py [yourfile].py
+```
 
 ### Usage With Flags
 * `--stop-on-error`: Stop execution on the first error.
